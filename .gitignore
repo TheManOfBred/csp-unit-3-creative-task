@@ -1,3 +1,7 @@
+# exclude the cmu_graphics folder
+/cmu_graphics
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
